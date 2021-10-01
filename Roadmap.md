@@ -8,6 +8,10 @@ Queue
 
 Binary Search
 
+Depth-first Search
+
+Breadth-first Search
+
 ___
 
 ### Intermediate Level (Solved.ac Gold Class)
@@ -15,27 +19,44 @@ ___
 Heap / Priority Queue
 
 Dijkstra's
+	
+Bellman–ford
 
 Floyd–warshall
 
 Segment Tree
 
 Bitmask
+
+Disjoint Set
+
+Topological Sorting
+
 ___
 
 ### Advanced ALgorithms (Solved.ac Platinum Class)
 
 Bipartite Matching
 
+Lowest Common Ancestor
+
+Strongly Connected Component
+
 Convex Hull
 
 Sparse Table
+
+Suffix Array And Lcp Array	
+
+Euler Tour Technique
 
 Euler Totient Function
 
 Rabin–karp
 	
 Manacher's
+
+Offline Queries
 
 Segment Tree With Lazy Propagation
 
@@ -48,6 +69,8 @@ ___
 ### Expert (Solved.ac Silver Diamond Class)
 
 Aho-corasick
+
+Parallel Binary Search
 
 Persistent Segment Tree
 
