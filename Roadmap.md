@@ -1,6 +1,6 @@
 # Problem Solving Roadmap
 
-### Begginer Level (Solved.ac Silver Class or Lower)
+### Begginer (Solved.ac Silver Class or Lower)
 
 Stack
 
