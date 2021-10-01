@@ -66,7 +66,7 @@ Max-flow Min-cut Theorem
 
 ___
 
-### Expert (Solved.ac Silver Diamond Class)
+### Expert (Solved.ac Diamond Class)
 
 Aho-corasick
 
@@ -90,15 +90,13 @@ Hungarian Algorithm
   
 ___
 
-### Distinguished (Solved.ac Silver Ruby Class)
+### Distinguished (Solved.ac Ruby Class)
 
 Slope Trick
 
 Alien Trick
 
 Splay Tree
-
-
 
 ___
 
